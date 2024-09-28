@@ -6,7 +6,7 @@ Una lista de los talleres disponibles en el repositorio del Aula de Software Lib
 
 * [Taller de BDD con PHP](https://aulasoftwarelibre.github.io/bdd-by-example-docs/)
 * [Taller de BDD con Typescript](https://aulasoftwarelibre.github.io/bdd-by-example-with-typescript-docs/)
-* [Taller de Bots en Python](https://aulasoftwarelibre.github.io/taller-de-bots-en-python/)
+* [Taller de Bots de Telegram en Python](https://aulasoftwarelibre.github.io/taller-de-bots-en-python/)
 * [Taller de Docker](https://aulasoftwarelibre.github.io/taller-de-docker/)
 * [Taller de GDB](https://aulasoftwarelibre.github.io/taller-de-gdb/)
 * [Taller de Git](https://aulasoftwarelibre.github.io/taller-de-git/)
@@ -22,7 +22,7 @@ Una lista de los talleres disponibles en el repositorio del Aula de Software Lib
 
 ## Plantillas
 
-* [Plantilla para Bots de Telegram](https://github.com/aulasoftwarelibre/telegram-bot-template)
+* [Plantilla para Bots de Telegram en Python](https://github.com/aulasoftwarelibre/telegram-bot-template)
 * [Plantilla para Katas en C++](https://github.com/aulasoftwarelibre/codekata-template-cpp)
 * [Plantilla para Katas en Python](https://github.com/aulasoftwarelibre/codekata-template-python)
 * [Plantilla para Katas en Typescript](https://github.com/aulasoftwarelibre/codekata-template-typescript)

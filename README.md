@@ -19,6 +19,7 @@ Una lista de los talleres disponibles en el repositorio del Aula de Software Lib
 * [Taller de Python](https://aulasoftwarelibre.github.io/taller-de-python/)
 * [Taller de React Native](https://aulasoftwarelibre.github.io/taller-de-react-native-docs/)
 * [Taller de Visual Studio Code](https://aulasoftwarelibre.github.io/taller-vscode/)
+* [How to create your Chatbots with Telegram and AI Models](https://aulasoftwarelibre.github.io/workshop-telegram-bots-with-ai-docs/) (en inglés)
 
 ## Plantillas
 
